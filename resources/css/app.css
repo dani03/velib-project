@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url("https://us.123rf.com/450wm/petovarga/petovarga1710/petovarga171000012/88596440-ic%C3%B4ne-de-symbole-de-v%C3%A9lo-ville-%C3%A9lectrique-isol%C3%A9-sur-fond-blanc-silhouette-de-ligne-e-bike-trekking.jpg?ver=6");
+    background-repeat: repeat;
+    z-index: -10;
+}
